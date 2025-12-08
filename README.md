@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I’m **Czpyioe**
 
-<!--
-**czpyioe/czpyioe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web3 Developer | Solidity & Rust Builder | Python Crypto Tools**
 
-Here are some ideas to get you started:
+I’m passionate about decentralized systems and currently focused on building secure smart contracts, blockchain tooling, and crypto utilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+
+* Smart contract development (Solidity)
+* Rust-based blockchain tooling
+
+### Currently Learning
+
+* Advanced Rust for blockchain
+* Smart contract security
+
+### Contact
+
+**Telegram:** @czpyioe · **Discord:** czpyioe_37397
