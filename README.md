@@ -13,7 +13,3 @@ I’m passionate about decentralized systems and currently focused on building s
 
 * Advanced Rust for blockchain
 * Smart contract security
-
-### Contact
-
-**Telegram:** @czpyioe · **Discord:** czpyioe_37397
