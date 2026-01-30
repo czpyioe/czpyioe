@@ -1,15 +1,11 @@
-## Hi, I’m **Czpyioe**
+# Czpyioe
 
-**Web3 Developer | Solidity & Rust Builder | Python Crypto Tools**
+**Web3 & Cryptography**
 
-I’m passionate about decentralized systems and currently focused on building secure smart contracts, blockchain tooling, and crypto utilities.
+I’m a student focused on **Web3 and cryptography**, learning by building.
 
-### What I Do
+## Focus Areas
 
-* Smart contract development (Solidity)
-* Rust-based blockchain tooling
-
-### Currently Learning
-
-* Advanced Rust for blockchain
-* Smart contract security
+* **Rust**: blockchain and low-level tooling
+* **Solidity**: smart contract development
+* **Cryptography**: applied crypto concepts and security
